@@ -74,8 +74,8 @@
      {{-- Image Slider --}}
      <div id="image-slider" class="absolute inset-0 w-full h-full overflow-hidden ">
          <img src="{{ asset('images/section1.jpg') }}" class="slider-image absolute inset-0 w-full h-full object-cover opacity-100 transition-opacity duration-1000">
-         <img src="{{ asset('images/section2.jpg') }}" class="slider-image absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-1000">
-         <img src="{{ asset('images/section3.jpg') }}" class="slider-image absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-1000">
+         <!-- <img src="{{ asset('images/section2.jpg') }}" class="slider-image absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-1000">
+         <img src="{{ asset('images/section3.jpg') }}" class="slider-image absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-1000"> -->
      </div>
 
      {{--Darkening Overlay--}}
